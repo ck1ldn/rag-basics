@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Programme overview",
+    "text": "Northwind Coding Academy runs a 12-week part-time Data Analytics bootcamp. Live classes take place on Tuesday and Thursday evenings from 6:30pm to 9:00pm UK time. There is also an optional Saturday lab from 10:00am to 12:00pm where students can get help with homework. Each cohort has a maximum of 24 students so that instructors can give individual feedback. New cohorts start in January, May and September."
+  },
+  {
+    "title": "Fees and payment",
+    "text": "The bootcamp fee is 3,900 pounds. A non-refundable deposit of 300 pounds secures your place. The remaining balance can be paid in full or in three monthly instalments. Students who pay in full at least 8 weeks before the start date receive a 10 percent early-bird discount. Northwind also offers 20 bursary places per year, each giving 50 percent off the fee to applicants on a low income."
+  },
+  {
+    "title": "Refund and deferral policy",
+    "text": "You can receive a full refund, minus the 300 pound deposit, if you cancel at least 14 days before the start date. If you leave during the first two weeks of the course, you will receive a 50 percent refund of the fee. After the end of week two, no refunds are available. Every student may defer to a later cohort once, free of charge, as long as they tell the admissions team before the course starts."
+  },
+  {
+    "title": "Curriculum",
+    "text": "Weeks 1 to 3 cover Python and the pandas library for working with data. Weeks 4 to 6 cover SQL, including joins and aggregations, using SQLite. Weeks 7 to 9 cover statistics and data visualisation. Weeks 10 to 12 are a capstone project where each student analyses a real dataset and presents their findings. All tools used on the course are free, including Google Colab and Looker Studio."
+  },
+  {
+    "title": "Admissions",
+    "text": "You do not need a university degree to apply. Applicants complete a 45-minute online assessment covering basic maths and logical reasoning. Shortlisted applicants then have a 20-minute interview with a member of the admissions team. Decisions are sent within 5 working days of the interview. All students must be at least 18 years old on the course start date."
+  },
+  {
+    "title": "Careers support",
+    "text": "Every student receives three one-to-one career coaching sessions, a CV review and a mock interview. In week 12 there is an employer demo day where students present their capstone projects to hiring managers. Graduates keep access to careers support for 6 months after the course ends. Northwind publishes an outcomes report every year."
+  },
+  {
+    "title": "Equipment and technical requirements",
+    "text": "Students need a laptop with at least 8GB of RAM, the Chrome browser and a stable internet connection. All coding is done in the browser, so no software needs to be installed. Northwind has a limited number of loan laptops, 10 per cohort, available for a refundable 50 pound deposit. Loan laptops are allocated on a first-come, first-served basis."
+  },
+  {
+    "title": "Attendance and certificates",
+    "text": "Students must attend at least 80 percent of live sessions to receive the course certificate. Recordings of every live class are available for 30 days after the session. If you cannot submit your capstone project on time, you can request a one-week extension by emailing your instructor before the deadline."
+  }
+]
